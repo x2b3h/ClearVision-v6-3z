@@ -40,8 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
-  --background-position: center; /* app background position [default: center] */
+  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://cdn.discordapp.com/attachments/1106824090507034625/1153340374438396015/228-desktop-pc-wallpapers-space-4k-hd-D8AED984D981D98AD8A7D8AA-D983D985D8A8D98AD988D8AAD8B1-D8AED984D981D98AD8A7D8AA-D981D8B6D8A7D8A1-D8AED984D981D98AD8A7D8AA-D984D8A7D8A8D8AAD988D8A8-D8B5D988D8B1-D981D8B6D8A7D8A1-D8AED984D981D98AD8A7D8AA-D8B3D8B7D8AD-D8A7D984D985D983D8AAD8A8-D8AED984D981D98AD8A7D8AA-D8A7D984D8B4D8A7D8B4D8A9-1024x576.png)]*/  --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
